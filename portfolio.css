@@ -1,0 +1,150 @@
+body {
+    padding-left: 100px ;
+    
+}
+.navbar{
+    height: 90px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.74);
+    
+}
+.nav a{
+    display: flex;
+    display: inline-block;
+     justify-content: space-evenly;
+} 
+a{
+    margin-left: 15px;
+}
+ 
+.chat{
+     margin-left: 100px; 
+    height:35px;
+    width:100px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid rgba(0, 0, 0, 0.507);
+} 
+
+.content {
+    width: 100%;
+    margin-top: 70px;
+    font-size: larger;
+    
+    
+}
+.photo {
+    width: 50%;
+    height: 600px;
+} 
+
+.hire{
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: orangered;
+    border: none;
+}
+.projects {
+    margin-left: 20px;  
+}
+.about{
+display: flex;
+align-items: center;
+margin-top: 30px;
+margin-bottom: 50px;
+
+}
+
+.logo img{
+    margin-left: 50px;
+    height: 30px;
+    width: 120px;
+    
+} */
+
+.clients h3{
+  font-size: x-large;
+  font-weight: 600;
+}
+.clients p{
+    margin-top: 10px;
+}
+.contact {
+    display: flex;  
+    
+}
+.con2{
+    margin-left: 90px;
+}
+.contact h3 p{
+    display: block;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.801);
+    color: white;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.know{
+    background-color: yellow;
+    height: 40px;
+    width: 110px;
+}
+.content span{
+    color: orange;
+    font-weight: bolder;
+}
+.foot2 a{
+margin-left: 50px;
+    display: block;
+    line-height: 40px;
+    border-bottom: 1px solid grey;
+    
+}
+.foot1 .know{
+    display: block;
+    margin-top: 20px;
+}
+footer h1{
+    font-size: 100px;
+}
+.main{
+    display: flex;
+}
+.part2{
+    /* display: flex;
+    justify-content: flex-end;  */
+    margin-left: 130px;
+    background-color: rgba(245, 245, 220, 0.856);
+   
+}
+.photo img{
+    
+    margin-left: 140px;
+    height: 90%;
+    width: 500px;
+    padding: 15px 15px 15px 15px;
+    
+    
+}
+.qual span{
+    color: orangered;
+}
+
+.qual h1{
+    margin-top: -10px;
+    margin-left: 270px;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: underline 2px grey;
+    
+}
